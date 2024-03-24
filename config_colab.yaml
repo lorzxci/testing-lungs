@@ -1,7 +1,7 @@
 clear_output: true
 force_cpu: false
 live_cam_start_active: false
-max_threads: 9
+max_threads: 60
 memory_limit: 0
 output_image_format: png
 output_template: '{file}_{time}'
